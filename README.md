@@ -1,6 +1,6 @@
-# Azubuike Azubuike Nwadike – Personal Portfolio Website
+# Azubuike Nwadike – Personal Portfolio Website
 
-👋 Hello! My name is **Azubuike Azubuike Nwadike**. I'm a **Full-Stack Software Developer** and **Cryptocurrency Trader**.
+👋 Hello! My name is **Azubuike Nwadike**. I'm a **Full-Stack Software Developer** and **Cryptocurrency Trader**.
 
 This is my personal portfolio website where I showcase who I am, what I do, and how I can help goal-focused entrepreneurs build trust and meaningful relationships with their audience.
 
